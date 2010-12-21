@@ -1,4 +1,4 @@
 module Dashboard
-  class App < Sinatra::Base
+  class MainApp < Sinatra::Base
   end
 end
