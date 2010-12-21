@@ -1,0 +1,3 @@
+module Dashboard
+  # Your code goes here...
+end
